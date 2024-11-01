@@ -1,0 +1,6 @@
+#hhg_scroll_to_top{
+	position: fixed;
+	cursor:pointer;
+	max-width: 20%;
+	z-index:9999999;
+}
